@@ -22,3 +22,6 @@ launch.json
 
 # dockclam binary
 dockclam
+
+# Environment variable files
+.env
